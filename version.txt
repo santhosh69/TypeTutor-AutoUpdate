@@ -1,4 +1,4 @@
-4.5.2
-
+5.0.0
+New! Letter Shooter Game!!
 UI/UX improvements. 
 Brings the cursor to the textbox if the user tabs/clicks away from it.
