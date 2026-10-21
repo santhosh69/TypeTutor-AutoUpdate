@@ -1,4 +1,7 @@
-5.0.0
+5.1.0
 New! Letter Shooter Game!!
 UI/UX improvements. 
 Brings the cursor to the textbox if the user tabs/clicks away from it.
+Modified Numeric keypad exercise.
+Added new Data Entry form.
+Bundled the TypeTutor.db with the executable.
